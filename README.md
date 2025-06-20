@@ -6,15 +6,7 @@ This project implements a complete pipeline for object detection and pose estima
 
 - Python 3.6+
 - Jupyter Notebook
-- Required Python packages (install using `pip install -r requirements.txt`)
-  - torch
-  - torchvision
-  - opencv-python
-  - numpy
-  - matplotlib
-  - scikit-learn
-  - tensorflow (for PoseNet)
-  - ultralytics (for YOLO)
+
 
 ## Project Structure
 
